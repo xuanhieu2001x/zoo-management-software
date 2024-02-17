@@ -1,0 +1,69 @@
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\bin\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.exe.config
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\bin\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.exe
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\bin\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.pdb
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmNhanVien.resources
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmChim.resources
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmMap.resources
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmBoSat.resources
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmConTrung.resources
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmDangNhapNV.resources
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmThu.resources
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmThuyCung.resources
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.Properties.Resources.resources
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\DOANCUOIKY.csproj.GenerateResource.cache
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\DOANCUOIKY.csproj.CoreCompileInputs.cache
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.exe
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.pdb
+C:\Users\XHN\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ_CSLT1\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\DOANCUOIKY.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\bin\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.exe.config
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\bin\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.exe
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\bin\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.pdb
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\DOANCUOIKY.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmNhanVien.resources
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmChim.resources
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmMap.resources
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmBoSat.resources
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmConTrung.resources
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmDangNhapNV.resources
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmThu.resources
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmThuyCung.resources
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\DOANCUOIKY.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\DOANCUOIKY.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.exe
+C:\Users\ASUS\Desktop\DOANCUOIKY\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.pdb
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\bin\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.exe.config
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\bin\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.exe
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\bin\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.pdb
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\DOANCUOIKY.csprojAssemblyReference.cache
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmNhanVien.resources
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmChim.resources
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmMap.resources
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmBoSat.resources
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmConTrung.resources
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmDangNhapNV.resources
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmThu.resources
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmThuyCung.resources
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.Properties.Resources.resources
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\DOANCUOIKY.csproj.GenerateResource.cache
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\DOANCUOIKY.csproj.CoreCompileInputs.cache
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.exe
+D:\Bé yêu\Cơ sở lập trình - ITE1269.A01\Đồ án cuối kì\final\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.pdb
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\bin\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.exe.config
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\bin\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.exe
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\bin\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.pdb
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\DOANCUOIKY.csproj.AssemblyReference.cache
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\DOANCUOIKY.csproj.SuggestedBindingRedirects.cache
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmNhanVien.resources
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmChim.resources
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmMap.resources
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmBoSat.resources
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmConTrung.resources
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmDangNhapNV.resources
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmThu.resources
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.frmThuyCung.resources
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ_ÁN_CUỐI_KÌ_CSLT1.Properties.Resources.resources
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\DOANCUOIKY.csproj.GenerateResource.cache
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\DOANCUOIKY.csproj.CoreCompileInputs.cache
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.exe
+C:\Users\xuanh\Downloads\FINAL CUỐIIIII\PHẠM NGỌC ANH LAN - 205120525\DOANCUOIKY\ĐỒ ÁN CUỐI KÌ_CSLT1\obj\Debug\ĐỒ ÁN CUỐI KÌ_CSLT1.pdb
